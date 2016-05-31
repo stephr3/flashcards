@@ -1,0 +1,22 @@
+body {
+  background-color: #B6D8E3;
+}
+
+.flashcard p {
+  display: none;
+}
+
+.flashcard {
+  height: 33vh;
+  width: 50vw;
+  background-color: white;
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+  margin-top: 20vh;
+}
+
+.flashcard h1, p {
+  text-align: center;
+  padding-top: 20%;
+}
